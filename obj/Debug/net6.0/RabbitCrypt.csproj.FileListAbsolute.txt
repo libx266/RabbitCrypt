@@ -1,0 +1,12 @@
+I:\MVS\RabbitCrypt\bin\Debug\net6.0\RabbitCrypt.deps.json
+I:\MVS\RabbitCrypt\bin\Debug\net6.0\RabbitCrypt.dll
+I:\MVS\RabbitCrypt\bin\Debug\net6.0\RabbitCrypt.pdb
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\RabbitCrypt.csproj.AssemblyReference.cache
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\RabbitCrypt.GeneratedMSBuildEditorConfig.editorconfig
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\RabbitCrypt.AssemblyInfoInputs.cache
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\RabbitCrypt.AssemblyInfo.cs
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\RabbitCrypt.csproj.CoreCompileInputs.cache
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\RabbitCrypt.dll
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\refint\RabbitCrypt.dll
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\RabbitCrypt.pdb
+I:\MVS\RabbitCrypt\obj\Debug\net6.0\ref\RabbitCrypt.dll
